@@ -235,10 +235,11 @@ button {
 }
 
 .info-title {
-    font-size: 12px;
+    font-size: 16px;
     text-align: center;
     padding-bottom: 20px;
-    line-height: 12px;
+    line-height: 16px;
+    margin: 0 40px;
 }
 
 .registry {
@@ -260,6 +261,9 @@ a {
 .section-footer {
     text-align: center;
     padding-bottom: 20px;
+    font-size: 16px;
+    line-height: 16px;
+    margin: 0 40px;
 }
 
 .img-cont {
@@ -329,7 +333,6 @@ img {
     }
 
     .img-cont {
-        width: 60%;
         padding: 20px 0;
     }
 }
