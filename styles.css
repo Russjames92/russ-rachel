@@ -178,17 +178,17 @@ section {
         background-image: url(images/hands-background-green.jpg);
     }
     20%{
-        background-image: url(images/bg-1.jpg);
+        background-image: url(images/bg-3.jpg);
     }
     40%{
         background-image: url(images/bg-2.jpg);
         background-position: right;
     }
     60%{
-        background-image: url(images/bg-3.jpg);
+        background-image: url(images/bg-4.jpg);
     }
     80%{
-        background-image: url(images/bg-4.jpg);
+        background-image: url(images/bg-1.jpg);
     }
     100%{
         background-image: url(images/bg-5.jpg);
